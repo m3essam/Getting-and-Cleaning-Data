@@ -18,3 +18,8 @@ For each record in the dataset it is provided:
 * A 561-feature vector with time and frequency domain variables. 
 * Its activity label. 
 * An identifier of the subject who carried out the experiment.
+
+# Transformation
+1. Read and process test data
+2. Read and Process train data
+3. Creates tidy data set with the average of each variable for each activity and each subject
